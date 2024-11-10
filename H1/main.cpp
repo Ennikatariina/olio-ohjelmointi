@@ -28,12 +28,7 @@ int main()
     cout << "Osamäärä on " << div <<endl;
     }
 
-    int m=4;
-    int n=5;
-    int c= m*n;
-    c=c*2;
-    c=c+1;
-    cout<< c<<endl;
+
 }
 
 
